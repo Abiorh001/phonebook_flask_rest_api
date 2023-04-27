@@ -8,9 +8,9 @@
 # You generate secret token 
 # You can test using swagger by from your browser or use postman or any other you wish. 
 # For signup and login url 127.0.0.1:5000/auth/api/v1
-#To add new contact, view contact and edit 
+# To add new contact, view contact and edit 
 127.0.0.1:5000/api/v1
 
-#the methods allow are GET,POST,PUT,DELETE
+# the methods allow are GET,POST,PUT,DELETE
 
-This is just a prototype. I need a contributors
+# This is just a prototype. I need a contributors
